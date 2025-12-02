@@ -1,11 +1,11 @@
-# Qt DHCP Server Discovery (Qt4+/Qt5+)
+# Qt DHCP Server Discovery (Qt6+)
 [![Build Status](https://travis-ci.org/QuentinCG/QDhcpDiscovery.svg?branch=master)](https://travis-ci.org/QuentinCG/QDhcpDiscovery) [![codecov](https://codecov.io/gh/QuentinCG/QDhcpDiscovery/branch/master/graph/badge.svg)](https://codecov.io/gh/QuentinCG/QDhcpDiscovery) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb06e946714845fa9ae7d224f986e638)](https://www.codacy.com/manual/QuentinCG/QDhcpDiscovery?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=QuentinCG/QDhcpDiscovery&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/QuentinCG/QDhcpDiscovery/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/QuentinCG)
  
 ## What is it
 
 This library (with a basic example) is designed to check if a DHCP server is launched in a provided ip interface.
 
-This class works with any Qt4 and Qt5 version (only required libraries: QtNetwork and QtCore)
+This class works with any Qt6 version (only required libraries: QtNetwork and QtCore)
 
 <img src="dhcp.jpg" width="300">
 
